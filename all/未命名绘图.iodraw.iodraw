@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-39" value="录入成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
