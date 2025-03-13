@@ -226,17 +226,8 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-65" value="修改所有学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="956.5" as="sourcePoint" />
-            <mxPoint x="470" y="956.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-68" value="身份验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="920" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-69" value="include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="935" width="60" height="30" as="geometry" />
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
