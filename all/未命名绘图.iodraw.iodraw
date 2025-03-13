@@ -254,7 +254,7 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-108" value="删除已选课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-109" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-109" value="include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-5" target="3owR-v5vXDLdDYJkw9Ku-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="-190" as="sourcePoint" />
             <mxPoint x="640" y="-190" as="targetPoint" />
