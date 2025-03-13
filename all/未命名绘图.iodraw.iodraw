@@ -10,12 +10,6 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-5" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-5" target="3owR-v5vXDLdDYJkw9Ku-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="-150" as="sourcePoint" />
-            <mxPoint x="740" y="-150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-7" value="身份验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-282" width="120" height="80" as="geometry" />
         </mxCell>
@@ -262,8 +256,8 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-109" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="-130" as="sourcePoint" />
-            <mxPoint x="730" y="-130" as="targetPoint" />
+            <mxPoint x="720" y="-190" as="sourcePoint" />
+            <mxPoint x="640" y="-190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
