@@ -161,7 +161,7 @@
           <mxGeometry x="300" y="-340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-45" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="800" width="30" height="60" as="geometry" />
+          <mxGeometry x="560" y="-230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -281,7 +281,7 @@
             <mxPoint x="195" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-93" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.344;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-70">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-93" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.344;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-70" target="3owR-v5vXDLdDYJkw9Ku-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="130" as="sourcePoint" />
             <mxPoint x="270" y="80" as="targetPoint" />
