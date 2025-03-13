@@ -141,9 +141,12 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1040" as="sourcePoint" />
-            <mxPoint x="200" y="1010" as="targetPoint" />
+            <mxPoint x="120" y="990" as="sourcePoint" />
+            <mxPoint x="210" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
