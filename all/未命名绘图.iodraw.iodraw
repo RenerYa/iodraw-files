@@ -65,7 +65,7 @@
           <mxGeometry x="170" y="698" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-17" value="校领导" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-10" width="30" height="60" as="geometry" />
+          <mxGeometry x="310" y="-30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -207,12 +207,6 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-55" value="删除课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1895" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="-40" as="sourcePoint" />
-            <mxPoint x="590" y="10" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-64" value="查询所有学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="120" height="80" as="geometry" />
