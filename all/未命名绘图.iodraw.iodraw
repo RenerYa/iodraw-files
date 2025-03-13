@@ -148,16 +148,16 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-39" value="录入成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3owR-v5vXDLdDYJkw9Ku-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="-150" as="sourcePoint" />
             <mxPoint x="650" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-41" value="修改成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-110" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="-360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3owR-v5vXDLdDYJkw9Ku-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="-120" as="sourcePoint" />
             <mxPoint x="650" y="10" as="targetPoint" />
