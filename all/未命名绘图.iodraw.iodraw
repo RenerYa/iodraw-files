@@ -216,23 +216,23 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="-20" as="sourcePoint" />
-            <mxPoint x="147.6561952354716" y="-129.99698832528398" as="targetPoint" />
+            <mxPoint x="99" y="410" as="sourcePoint" />
+            <mxPoint x="76.65619523547161" y="300.00301167471605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-64" value="查询所有学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="9" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-65" value="修改所有学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="149" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-70" value="删除所有学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-17" target="3owR-v5vXDLdDYJkw9Ku-65">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3owR-v5vXDLdDYJkw9Ku-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="-20" as="sourcePoint" />
-            <mxPoint x="250" y="-100" as="targetPoint" />
+            <mxPoint x="119" y="424.349626107261" as="sourcePoint" />
+            <mxPoint x="179" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-17" target="3owR-v5vXDLdDYJkw9Ku-70">
