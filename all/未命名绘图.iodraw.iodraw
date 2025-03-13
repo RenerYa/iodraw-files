@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="350" as="sourcePoint" />
-            <mxPoint x="290" y="220" as="targetPoint" />
+            <mxPoint x="100" y="198" as="sourcePoint" />
+            <mxPoint x="270" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-5" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,30 +27,30 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="360" as="sourcePoint" />
-            <mxPoint x="230" y="320" as="targetPoint" />
+            <mxPoint x="130" y="278" as="sourcePoint" />
+            <mxPoint x="230" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-9" value="添加班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="198" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="390" as="sourcePoint" />
-            <mxPoint x="220" y="400" as="targetPoint" />
+            <mxPoint x="130" y="308" as="sourcePoint" />
+            <mxPoint x="220" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-11" value="查询班级信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="298" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="420" as="sourcePoint" />
-            <mxPoint x="230" y="490" as="targetPoint" />
+            <mxPoint x="120" y="338" as="sourcePoint" />
+            <mxPoint x="230" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-13" value="修改班级信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="398" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
