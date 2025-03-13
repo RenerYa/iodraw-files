@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="5keuF99MHj1HP5seczts">
-    <mxGraphModel dx="166" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1954" dy="2501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="220" y="1135" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-30" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-10" width="30" height="60" as="geometry" />
+          <mxGeometry x="520" y="-180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,30 +141,30 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="10" as="sourcePoint" />
-            <mxPoint x="550" as="targetPoint" />
+            <mxPoint x="560" y="-160" as="sourcePoint" />
+            <mxPoint x="660" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-39" value="录入成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-30" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="20" as="sourcePoint" />
-            <mxPoint x="540" y="90" as="targetPoint" />
+            <mxPoint x="560" y="-150" as="sourcePoint" />
+            <mxPoint x="650" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-41" value="修改成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="50" as="sourcePoint" />
-            <mxPoint x="540" y="180" as="targetPoint" />
+            <mxPoint x="570" y="-120" as="sourcePoint" />
+            <mxPoint x="650" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-44" value="查询成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-45" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="800" width="30" height="60" as="geometry" />
@@ -210,8 +210,8 @@
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="90" as="sourcePoint" />
-            <mxPoint x="450" y="140" as="targetPoint" />
+            <mxPoint x="530" y="-80" as="sourcePoint" />
+            <mxPoint x="560" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
