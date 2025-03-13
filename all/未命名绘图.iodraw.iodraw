@@ -143,6 +143,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="-160" as="sourcePoint" />
             <mxPoint x="690" y="-130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-39" value="录入成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
