@@ -158,10 +158,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-44" value="查询成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-340" width="120" height="80" as="geometry" />
+          <mxGeometry x="275" y="-420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-45" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-230" width="30" height="60" as="geometry" />
+          <mxGeometry x="505" y="-290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -300,7 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-96" value="选课" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-1" target="3owR-v5vXDLdDYJkw9Ku-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
