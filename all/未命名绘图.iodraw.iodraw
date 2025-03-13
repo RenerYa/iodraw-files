@@ -65,7 +65,7 @@
           <mxGeometry x="520" y="488" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-17" value="校领导" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="620" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -211,7 +211,7 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="90" as="sourcePoint" />
-            <mxPoint x="470" y="40" as="targetPoint" />
+            <mxPoint x="430" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
