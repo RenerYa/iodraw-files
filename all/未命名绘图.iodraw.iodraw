@@ -320,11 +320,14 @@
         <mxCell id="3owR-v5vXDLdDYJkw9Ku-100" value="增加选修课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3owR-v5vXDLdDYJkw9Ku-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3owR-v5vXDLdDYJkw9Ku-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="520" as="sourcePoint" />
-            <mxPoint x="510" y="670" as="targetPoint" />
+            <mxPoint x="500" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3owR-v5vXDLdDYJkw9Ku-102" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="673" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
