@@ -13,11 +13,8 @@
         <mxCell id="EUU6y9k_dlR4o5fFNlws-4" value="数据库访问：&lt;div&gt;DataManager&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="EUU6y9k_dlR4o5fFNlws-4" source="EUU6y9k_dlR4o5fFNlws-15" target="EUU6y9k_dlR4o5fFNlws-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EUU6y9k_dlR4o5fFNlws-4">
-          <mxGeometry x="45" y="110" width="10" height="130" as="geometry" />
+          <mxGeometry x="45" y="110" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-5" value="学生信息:&lt;div&gt;StudentInfo&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="100" height="300" as="geometry" />
