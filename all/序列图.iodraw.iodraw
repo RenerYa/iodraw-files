@@ -22,11 +22,6 @@
         <mxCell id="EUU6y9k_dlR4o5fFNlws-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EUU6y9k_dlR4o5fFNlws-5">
           <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="EUU6y9k_dlR4o5fFNlws-18" parent="EUU6y9k_dlR4o5fFNlws-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25" y="185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-8" value="学生成绩:&lt;div&gt;Grades&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="710" y="70" width="100" height="300" as="geometry" />
         </mxCell>
@@ -59,9 +54,14 @@
             <mxPoint x="375" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-19" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="EUU6y9k_dlR4o5fFNlws-18" parent="1" source="EUU6y9k_dlR4o5fFNlws-4">
+        <mxCell id="EUU6y9k_dlR4o5fFNlws-19" value="加载学生信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="EUU6y9k_dlR4o5fFNlws-18" parent="1" source="EUU6y9k_dlR4o5fFNlws-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUU6y9k_dlR4o5fFNlws-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="EUU6y9k_dlR4o5fFNlws-18" parent="1" target="EUU6y9k_dlR4o5fFNlws-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
