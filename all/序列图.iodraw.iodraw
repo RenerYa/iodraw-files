@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="70" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EUU6y9k_dlR4o5fFNlws-3">
-          <mxGeometry x="42.5" y="90" width="15" height="170" as="geometry" />
+          <mxGeometry x="42.5" y="90" width="15" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-4" value="数据库访问：&lt;div&gt;DataManager&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="100" height="300" as="geometry" />
@@ -42,7 +42,7 @@
           <mxGeometry x="125" y="80" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EUU6y9k_dlR4o5fFNlws-13">
-          <mxGeometry x="5" y="80" width="10" height="170" as="geometry" />
+          <mxGeometry x="5" y="80" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EUU6y9k_dlR4o5fFNlws-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;老师：&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Teacher&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="110" width="80" height="50" as="geometry" />
