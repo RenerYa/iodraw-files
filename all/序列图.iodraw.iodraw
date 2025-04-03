@@ -49,7 +49,7 @@
             <mxPoint x="375" y="195" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-17" value="返回学生信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="EUU6y9k_dlR4o5fFNlws-15" parent="1" target="EUU6y9k_dlR4o5fFNlws-3">
+        <mxCell id="EUU6y9k_dlR4o5fFNlws-17" value="返回学生分数" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="EUU6y9k_dlR4o5fFNlws-15" parent="1" target="EUU6y9k_dlR4o5fFNlws-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375" y="265" as="targetPoint" />
           </mxGeometry>
