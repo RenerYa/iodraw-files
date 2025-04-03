@@ -32,8 +32,8 @@
             <mxPoint x="140" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-13" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="200" y="95" width="20" height="300" as="geometry" />
+        <mxCell id="EUU6y9k_dlR4o5fFNlws-13" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;老师：&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Teacher&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="125" y="70" width="20" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
