@@ -83,7 +83,7 @@
         <mxCell id="EUU6y9k_dlR4o5fFNlws-27" value="2.如果学生信息不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="295" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUU6y9k_dlR4o5fFNlws-33" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="EUU6y9k_dlR4o5fFNlws-33" value="老师：Teacher" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="10" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
