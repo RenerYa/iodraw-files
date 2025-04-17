@@ -137,15 +137,6 @@
         <mxCell id="yfoT1RVA0CELDGzBfeBs-29" value="+ getLocation():int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yfoT1RVA0CELDGzBfeBs-13">
           <mxGeometry y="170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yfoT1RVA0CELDGzBfeBs-30" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="yfoT1RVA0CELDGzBfeBs-13">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="383.72" y="562.9986934532172" as="sourcePoint" />
-            <mxPoint x="178.99999999999997" y="566.4499999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
