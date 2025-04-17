@@ -122,6 +122,12 @@
         <mxCell id="yfoT1RVA0CELDGzBfeBs-22" value="+ seatLocation:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yfoT1RVA0CELDGzBfeBs-13">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="yfoT1RVA0CELDGzBfeBs-30" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.408;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yfoT1RVA0CELDGzBfeBs-13" source="zkfFHV4jXpPFQw0GAbJ--13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="353.72" y="77.99869345321724" as="sourcePoint" />
+            <mxPoint x="148.99999999999997" y="81.44999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yfoT1RVA0CELDGzBfeBs-23" value="+ isAvailable:boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yfoT1RVA0CELDGzBfeBs-13">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
@@ -136,12 +142,6 @@
         </mxCell>
         <mxCell id="yfoT1RVA0CELDGzBfeBs-29" value="+ getLocation():int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yfoT1RVA0CELDGzBfeBs-13">
           <mxGeometry y="170" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yfoT1RVA0CELDGzBfeBs-30" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.408;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="yfoT1RVA0CELDGzBfeBs-13">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="400" y="570" as="sourcePoint" />
-            <mxPoint x="250" y="530" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
